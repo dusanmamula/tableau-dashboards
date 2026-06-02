@@ -18,4 +18,4 @@ Interactive dashboard analyzing Netflix content library.
 - Trends by year
 
 ## Skills used
-Tableau, Data Visualization, Filters, Maps, Charts
+Tableau, Data Visualization, Filters, Maps, Chartss
