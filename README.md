@@ -29,52 +29,52 @@ Interactive dashboard analyzing Netflix content library.
 ## Olympics Dashboard
 Historical analysis of Olympic Games, athlete demographics, and medal distributions.
 ![Olympics Dashboard](Olympics_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/Olympicsdashboard_17810185030610/Dashboard1)
 
 ## World Cup Dashboard
 Comprehensive overview of FIFA World Cup history, including winning countries, host stats, and audience distribution.
 ![World Cup Dashboard](World_Cup_dashborad.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/WorldCupdashboard_17810185208460/Dashboard1)
 
 ## Friends TV Show Dashboard
 Analysis of the iconic sitcom, covering episode counts, director tracking, IMDb ratings, and voting trends across seasons.
 ![Friends Dashboard](Friends_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/Friendsdashboard_17810184497740/Dashboard1)
 
 ## Amazon Prime Dashboard
 Interactive analysis of Amazon Prime's content library, showcasing genres, release years, and show types.
 ![Amazon Prime Dashboard](Amazon_prime_dashnboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/AmazonPrimedashboard_17810184711310/Dashboard1)
 
 ## Uber Bookings Dashboard
 Analysis of ride-hailing data, focusing on booking values, revenue by pickup location, and trip distances.
 ![Uber Dashboard](Uber_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/Uberdashboard_17810185449730/Dashboard1)
 
 ## Amazon India Sales Dashboard
 E-commerce operations tracking, focusing on sales quantity, courier status, and state-wise order distribution in India.
 ![Amazon India Dashboard](India_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/AmazonIndiadashboard_17810184323280/Dashboard1)
 
 ## Adidas Sales Dashboard
 Retail business overview analyzing total sales, operating profit margins, and distribution channels across regions.
 ![Adidas Dashboard](Adidas_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/Adidassalesdashboard_17810184089840/Dashboard1)
 
 ## Goodreads Books Dashboard
 Exploration of literary data, tracking top authors, publishers, and top-rated book titles based on reader reviews.
 ![Books Dashboard](Books_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/GoodreadsBooksdashboard_17810184852920/Dashboard1)
 
 ## Breaking Bad Dashboard
 Deep dive into the critically acclaimed TV show, analyzing episode lengths, viewer numbers, and director insights.
 ![Breaking Bad Dashboard](Breaking_Bad_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/BreakingBaddashboard_17810183354310/Dashboard1)
 
 ## IMDb Movies Dashboard
 Comprehensive film industry analysis, covering movie gross earnings, certificates, genres, and critical meta scores.
 ![IMDb Dashboard](IMDb_dashboard.png)
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/vizzes)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/dusan.mamula/viz/IMDbdashboard_17810183794710/Dashboard1)
 
 
 ## Skills used
